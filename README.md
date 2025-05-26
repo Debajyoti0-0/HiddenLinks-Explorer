@@ -27,7 +27,7 @@ HiddenLinks Explorer is a powerful terminal-based OSINT utility for researchers,
   - `rich`
   - `openpyxl` (for reading `.xlsx` files)
 
-Install them with:
+## 📥 Install them with:
 
 ```bash
 pip install -r requirements.txt
