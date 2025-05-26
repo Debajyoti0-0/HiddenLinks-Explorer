@@ -43,7 +43,7 @@ python explorer.py
 This tool is intended for educational and ethical research purposes only. The author is not responsible for any misuse. Please ensure all activities comply with your local laws and organizational policies.
 
 ## 📜 License
-This project is licensed under the MIT License. See LICENSE for more information.
+Distributed under the GNU V3.0 License. See [LICENSE](https://github.com/Debajyoti0-0/HiddenLinks-Explorer/blob/main/LICENSE) for more information.
 
 ## ❤️ Contributions Welcome
-Feel free to fork the repo, submit pull requests, suggest improvements, or report issues via GitHub Issues.
+Feel free to fork the repo, submit pull requests, suggest improvements, or report issues via [GitHub Issues](https://github.com/Debajyoti0-0/HiddenLinks-Explorer/issues).
