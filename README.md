@@ -4,7 +4,7 @@
 
 HiddenLinks Explorer is a powerful terminal-based OSINT utility for researchers, journalists, cybersecurity professionals, and enthusiasts to navigate and extract categorized `.onion` links from a curated dataset. It provides a clean, interactive interface to sift through Tor network site listings by topic, such as marketplaces, forums, leak sites, and anonymity tools.
 
-![Banner](https://user-images.githubusercontent.com/your-username/your-banner.png)
+![Banner](https://github.com/Debajyoti0-0/HiddenLinks-Explorer/blob/main/assets/banner.png)
 
 ---
 
